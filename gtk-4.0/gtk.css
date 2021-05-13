@@ -1,0 +1,23 @@
+headerbar.default-decoration {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    min-height: 0px;
+}
+
+headerbar.default-decoration button.titlebutton {
+    padding: 2px;
+    margin-left: 2px;
+    margin-right: 2px;
+    min-height: 0px;
+    min-width: 0px;
+}
+
+headerbar button.titlebutton {
+    padding: 2px;
+}
+
+headerbar button.minimize,
+headerbar button.maximize,
+headerbar button.close {
+    padding: 2px;
+}
